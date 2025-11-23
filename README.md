@@ -12,7 +12,7 @@
 
 </div>
 
-![头像](image/图像.jpg)
+![头像]()
 
 ![Visitor Count](https://profile-counter.glitch.me/slider/count.svg)
 
