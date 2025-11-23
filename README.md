@@ -12,8 +12,7 @@
 
 </div>
 
-![头像](![1763540448707_MdntK](https://github.com/user-attachments/assets/7158b90e-5b03-4fda-8a8a-8bbe507619f7)
-)
+![头像](image/图像.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/slider/count.svg)
 
