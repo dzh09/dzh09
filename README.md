@@ -15,7 +15,7 @@
 
 </div>
 
-![头像](![头像](https://avatars.githubusercontent.com/u/dzh09?v=4))
+![头像](https://avatars.githubusercontent.com/u/dzh09?v=4)
 
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=slider
