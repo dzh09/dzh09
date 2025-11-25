@@ -1,5 +1,10 @@
  # Hi 大家好 我是slider 欢迎来到我的主页
+
+</details>
 <div id="title" align=center>
+<a href="https://github.com/dzh09/dzh09">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dzh09&show_icons=true" />
+</a>
 
 ![Modern C template][github-sub-title:img]
 
