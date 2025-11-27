@@ -1,6 +1,7 @@
  # Hi 大家好 我是slider 欢迎来到我的主页
 
 </details>
+<div id="title" align=center>
 
 ![Modern C template][github-sub-title:img]
 
