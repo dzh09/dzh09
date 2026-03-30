@@ -18,7 +18,7 @@
 </div>
 
 
-![头像](http://youke.xn--y7xa690gmna.cn/s1/2026/01/21/69708fab44008.webp)
+[![pe3Zo6O.jpg](https://s41.ax1x.com/2026/03/30/pe3Zo6O.jpg)](https://imgchr.com/i/pe3Zo6O)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=slider
 
